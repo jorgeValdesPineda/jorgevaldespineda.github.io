@@ -1,41 +1,52 @@
-Portfolio profesional de Jorge L. Valdés
+# Jorge L. Valdés | Automatización y Data Analytics
 
-Sitio web personal para presentar la trayectoria de Jorge L. Valdés y su orientación hacia **Data Analytics**, apoyada en una base profesional en **automatización industrial y sistemas de control**.
+**Industria en marcha. Datos con propósito.**
 
-El portfolio reúne formación, experiencia, competencias técnicas y proyectos relacionados con el análisis de datos y el control industrial. Su objetivo es ofrecer una visión clara del perfil y facilitar el contacto profesional.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Web-087e78)](https://jorgevaldespineda.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2)](https://www.linkedin.com/in/jorge-l-valdes-pineda/)
+[![GitHub](https://img.shields.io/badge/GitHub-Proyectos-181717)](https://github.com/jorgeValdesPineda)
 
-## Perfil
+## Sobre mí
 
-Jorge es Ingeniero en Automática y cursa un Máster en Big Data Science. Su experiencia en entornos industriales aporta conocimiento de equipos, procesos, instrumentación y sistemas de control. Su formación y sus proyectos académicos amplían esa base hacia la programación y el análisis de datos.
+Ingeniero en Automática con experiencia en sistemas de control, programación de PLC, instrumentación, puesta en marcha y diagnóstico de equipos industriales. Formación práctica en automatización de procesos en la industria farmacéutica y biotecnológica.
 
-## Contenido del sitio
+Actualmente curso el Máster en Big Data Science de la Universidad de Navarra, complementando mi experiencia industrial con competencias en programación, procesamiento de datos e integración de sistemas.
 
-- **Perfil profesional:** resumen de experiencia industrial y objetivo de transición hacia el análisis de datos.
-- **Competencias:** herramientas y conocimientos de análisis de datos, programación y automatización.
-- **Experiencia:** trayectoria en puesta en marcha, electrónica industrial, sistemas de control y evaluación técnica de agentes de IA.
-- **Proyectos y publicación:** proyecto académico de clasificación de datos y publicación técnica sobre control industrial.
-- **Formación e idiomas:** estudios universitarios, formación especializada y nivel de idiomas.
-- **Contacto:** correo electrónico, teléfono y perfiles profesionales.
+Mi interés profesional se centra en la automatización industrial, la ingeniería y el análisis de datos, la digitalización de procesos y las soluciones de Industria 4.0.
 
-## Tecnología
+## Competencias técnicas
 
-El sitio está construido con HTML y CSS. Es una página estática, adaptable a móviles y ordenadores, y no requiere instalación de dependencias ni un proceso de compilación.
+| Área | Tecnologías y conocimientos |
+| --- | --- |
+| Automatización industrial | Siemens (STEP 7), Schneider Electric (SoMachine), CODESYS, ifm, SCADA/HMI (WinCC), instrumentación y bus CAN |
+| Datos y programación | Python, SQL, Pandas, NumPy, scikit-learn, Matplotlib y Seaborn |
+| Integración de sistemas | API REST, JSON, sensores, esquemas eléctricos y diagramas P&ID |
+| Modelado y herramientas | MATLAB/Simulink, C/C++, Git/GitHub, Docker y Ubuntu (WSL) |
 
-### Archivos principales
+## Proyectos destacados
 
-- `index.html` — estructura, contenido y estilos visuales del sitio.
-- `README.md` — descripción del portfolio e información básica para mantenerlo y publicarlo.
+### NASA NeoWs API — Integración y procesamiento de datos
+Proyecto académico de la Universidad de Navarra (2026). Extracción de datos de objetos cercanos a la Tierra mediante una API REST, validación de parámetros, tratamiento de JSON, gestión de errores HTTP y visualización con Python, Pandas y Matplotlib.
 
-## Ver el sitio en el ordenador
+*Repositorio pendiente de publicación.*
 
-Abre `index.html` en un navegador web. Para editar el contenido, modifica ese archivo y vuelve a abrirlo para revisar los cambios.
+### Spaceship Titanic — Clasificación predictiva
+Proyecto de clasificación binaria en Kaggle que incluye limpieza de datos, análisis exploratorio, selección de variables y comparación de modelos de aprendizaje automático. Mejor precisión reportada: 74,2 %.
 
-## Publicación
+### Predictor de Smith — Control industrial
+Proyecto de fin de grado desarrollado en Laboratorios Farmacéuticos AICA, centrado en el modelado y diseño de un sistema de control de presión de vapor en una caldera pirotubular.
 
-El sitio puede publicarse con GitHub Pages desde la rama `main` y la carpeta raíz del repositorio. Si el repositorio se llama `jorgito9707.github.io`, la dirección personal de GitHub Pages será `https://jorgito9707.github.io`.
+**Publicación:** “Design of a control system based on Smith’s predictor of steam pressure in a fire tube boiler”. XVIII International Computer Science Convention and Fair, La Habana, 2022.
 
-Tras cada cambio en `index.html`, guarda y confirma la modificación en GitHub para que Pages actualice la versión publicada. La primera publicación puede tardar unos minutos.
+## Sobre este repositorio
+
+Este repositorio contiene el código fuente de mi portfolio profesional, desarrollado con HTML5 y CSS3, con diseño adaptable a dispositivos móviles y publicado mediante GitHub Pages.
+
+**Visitar portfolio:** [jorgevaldespineda.github.io](https://jorgevaldespineda.github.io/)
 
 ## Contacto
 
-Para consultas profesionales, utiliza los datos y enlaces de contacto que aparecen en el sitio.
+- Madrid, España
+- [LinkedIn](https://www.linkedin.com/in/jorge-l-valdes-pineda/)
+- [Correo electrónico](mailto:jorgeluisvaldespineda@gmail.com)
+- [GitHub](https://github.com/jorgeValdesPineda)
